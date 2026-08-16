@@ -1,5 +1,6 @@
 
-<img width="819" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6db03ef-6fe4-481d-91b6-6069a5e12693" />
+<img width="736" height="473" alt="image" src="https://github.com/user-attachments/assets/18f9bc14-eaff-43ea-b07f-ee94e3aa0895" />
+
 
 <!--
 **kuunae/kuunae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
