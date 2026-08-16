@@ -1,5 +1,6 @@
 
-<p align="center"><img width="735" height="415" alt="image" src="https://github.com/user-attachments/assets/f20fc22d-287b-4d8b-b814-71fd73a89783" />
+<p align="center"><img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/f8d72b2c-0470-4722-a222-a4e6fbc3f63c" />
+
 
 
 
