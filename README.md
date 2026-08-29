@@ -1,3 +1,4 @@
 <p align="center">"pushed each other to fly, even if it meant flying apart."
-<p align="center"><img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/4f3d20b1-44a6-4304-b415-501d3dcae5ca" />
+<p align="center"><img width="736" height="534" alt="image" src="https://github.com/user-attachments/assets/7f0fba65-ad50-4a99-a250-d28ec5969bac" />
+
 
