@@ -1,6 +1,7 @@
-<p align="center">"It's because of me that so many are dead!"
-  <p align="center">"Because of US."
-<p align="center"><img width="735" height="510" alt="image" src="https://github.com/user-attachments/assets/5acb0e7a-9d6e-4268-97a4-4fa62ff1b719" />
+<p align="center">
+  <p align="center">
+<p align="center"><img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/b8ae9eb0-00d9-4823-b1ee-ff042233ff3a" />
+
 
 
 
